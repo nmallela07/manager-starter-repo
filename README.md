@@ -13,3 +13,15 @@ Practice the professional "Feature Branch" workflow by forking, cloning, and con
 
 ### Command History 
 Complete this README.md with the commands you used to complete the tasks above. 
+
+### Commitments done:-
+13/4/26 --> started learning html
+15/4/26 ---> html + css practise, started apping
+16/4/26 ---> html + CSS practice, general questionnaire done
+17/4/26 ---> learnt basic git AND its functions, beginner JS
+18/4/26 ----> expense tracker completed 
+19/4/26 ---> completed expense tracker app yesterday, app nearly completed.
+
+### Key learnings from this app:-
+1) Learnt to build a simple expense tracker, which taught me how to handle expenses and balance, and how to design small functional websites.
+2) I am aware of the limitations of my simple project, like lack of data storage, scope of improvement in UI etc but I've realized this project helped me understand not just building a UI but also handling logic, structure, and limitations of simple web apps.
