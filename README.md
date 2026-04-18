@@ -18,8 +18,8 @@ git push origin nmallela07 ---> branch exists in my github fork after this comma
 Updated readme with command history, commitments and key learnings.
 pushed my branch
 base repo = Dhruvjalan repo
-head repo = nmallela fork
-branch = nmallela
+head repo = nmallela07 fork
+branch = nmallela07
 
 ### Commitments done:-
 13/4/26 --> started learning html
