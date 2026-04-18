@@ -12,7 +12,14 @@ Practice the professional "Feature Branch" workflow by forking, cloning, and con
 6. **PR**: Push your branch and open a Pull Request.
 
 ### Command History 
-Complete this README.md with the commands you used to complete the tasks above. 
+cd ./Desktop/ ---> git clone to clone repository to local machine
+git checkout -b nmallela07 -->branch is created locally in my fork
+git push origin nmallela07 ---> branch exists in my github fork after this command
+Updated readme with command history, commitments and key learnings.
+pushed my branch
+base repo = Dhruvjalan repo
+head repo = nmallela fork
+branch = nmallela
 
 ### Commitments done:-
 13/4/26 --> started learning html
